@@ -1,0 +1,29 @@
+{
+    "name": "needsjs",
+    "description": "A module that allows including references in the same context.",
+    "author": [{
+        "name" : "Bogdan Mustiata",
+        "email" : "bogdan.mustiata@gmail.com"
+    }],
+    "version": "0.1.0",
+    "dependencies": {
+    },
+    "keywords": [],
+    "main": "./lib/needsjs.js",
+    "bugs": {
+        "url": "https://github.com/bmustiata/needsjs/issues"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "https://github.com/bmustiata/needsjs/blob/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bmustiata/needsjs.git"
+    },
+    "readme": "A module that allows including references in the same context.",
+    "readmeFilename": "README.md",
+    "homepage": "http://blog.ciplogic.com"
+}
